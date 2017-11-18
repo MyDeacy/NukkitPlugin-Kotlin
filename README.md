@@ -1,2 +1,4 @@
 # NukkitPlugin-Kotlin
-Kotlinで簡単なのを書いただけ。
+Kotlinで簡単なNukkitプラグインを書いただけ。  
+  
+持ったアイテムのID,MetaをTipで出力します。
